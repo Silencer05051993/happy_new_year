@@ -1,6 +1,4 @@
 import curses
-from curses import wrapper
-import random
 from random import randrange
 import time
 
